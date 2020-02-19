@@ -1,0 +1,16 @@
+<html>
+<head>
+Just See
+</head>
+<body bgcolor="blue">
+
+<h1>Click on the links to view different sites</h1>
+<h3>Here I provided some links </h3>
+<a href="translate.google.com">Translation</a>
+<img src="https://www.instagram.com/p/B8V-i7HHN01dS1mXmY4PT4jMFFa9o2FXzzG1-I0/?igshid=tq3pnqnfzdee" width="200" height="200">
+<hr color="blue" size="10">
+<marquee scroll amount="20" behavior="scroll"><b>Mr.darling_yas</b></marquee>
+<hr color="blue" size="10">
+
+</body>
+</html>
